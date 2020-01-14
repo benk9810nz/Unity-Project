@@ -1,0 +1,9 @@
+canyon edge
+
+hue 0
+sat 80
+lum90
+
+red  128
+green  64
+bluye  64

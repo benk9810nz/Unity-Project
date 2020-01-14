@@ -1,0 +1,36 @@
+tile
+edges
+-left
+-right
+-top
+-bottom
+
+corners
+-top left
+-top right
+-bottom left
+bottom right
+
+45 degrees
+-tl to br
+--left fill
+--right fill
+-tr to bl
+--left fill
+--right fill
+
+22.5 degrees
+-tl to br
+--left fill
+---thin
+---thick
+--right fill
+---thin
+---thick
+-tr to bl
+--left fill
+---thin
+---thick
+--right fill
+---thin
+---thick
