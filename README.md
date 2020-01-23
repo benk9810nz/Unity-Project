@@ -9,3 +9,6 @@ Once the scripts were created these were then combined and put together by my fe
 ## How to run Reality Warp
 Reality Warp can be launched by downloading the Finished (Built Game) folder, and then double clicking the Project.exe executable.
 The Project can be explored in the Unity Files Folder by opening the Project.sln file in Unity.
+
+
+### @ Benjamin King 2019
