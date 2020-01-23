@@ -1,5 +1,4 @@
-<p align="center">
-# Unity Project – Game Development 2019 </p>
+# Unity Project – Game Development 2019
 ## Introduction
 This Unity Project is a Game that I worked within a group to create for our Game Development course at the Southern Institute of Technology (Year 2).
 I worked in a group creating this game, with my fellow Team Members Henry Sly, Jayekib den_Dulk and Holly Johnston. As part of the 4 Team Member Crew, I was designated as the Project and Team Manager who was overall in charge of the Project as well as its organising.
